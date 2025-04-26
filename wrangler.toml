@@ -1,0 +1,16 @@
+// Cloudflare Workers配置文件
+
+name = "job-assistant-web"
+main = "src/index.ts"
+compatibility_date = "2023-01-01"
+
+[site]
+bucket = "./public"
+
+[build]
+command = "npm run build"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "job_assistant_db"
+database_id = "job-assistant-db"

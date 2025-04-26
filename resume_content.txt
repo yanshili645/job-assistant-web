@@ -1,0 +1,119 @@
+Yanshi Li
+Phone number: (+86) 19117369581
+
+Email address: yanshili645@gmail.com
+
+Home: Shanghai
+
+ABOUT ME
+AI Product Manager & Research Engineer with 10+ years of experience in text to speech synthesis system
+development, AI language model development, and product lifecycle management. Proven ability to bridge AI
+modeling and customer needs, ensuring seamless integration of advanced AI models into real-world applications.
+Skilled in computational linguistics, text normalization, word segmentation, and speech synthesis. Strong
+background in cross-functional team collaboration, project coordination, and AI model quality assurance.
+
+WORK EXPERIENCE
+Product Manager
+Daotest.net [ 01/09/2023 – Current]
+City: Shanghai | Country: China
+· Conduct market research & feasibility studies to deﬁne AI-driven product strategies.
+· Lead product design & prototyping using Axure and Visio, ensuring technical feasibility.
+· Collaborate with AI engineers to develop and optimize large language models for various applications.
+· Oversee user testing & feedback collection, reﬁning AI models based on real-world performance.
+· Act as a bridge between business and engineering teams, translating product requirements into technical
+solutions.
+· Manage project timelines & resources, ensuring on-time delivery of AI-enhanced products.
+
+Product Research Engineer
+Nuance/Cerence [ 26/09/2010 – 15/03/2023 ]
+City: Shanghai | Country: China
+· Led model development, specializing in grapheme to phoneme models for speech synthesis system.
+· Acted as a technical liaison for international teams, guiding AI model integration into customer projects.
+· Managed product lifecycle & quality assurance, ensuring AI models met accuracy benchmarks.
+· Translated customer requirements into AI modeling improvements, ensuring high performance in real-world
+applications.
+· Developed and maintained technical documentation, providing integration guidance for global teams.
+· Collaborated with QA and development teams to identify & ﬁx model-related issues, improving AI performance
+· Supported the sales team in analyzing customer needs for new AI projects, advising on feature feasibility.
+
+Higher education literature teacher
+Wuzhou University [ 01/07/2009 – 31/08/2010 ]
+City: Wuzhou | Country: China
+· Mentored junior college students in thesis writing & research, demonstrating leadership and instructional skills.
+· Developed and delivered course materials in linguistics.
+
+PROJECTS
+[ 09/2019 – 03/2023 ]
+Automotive TTS Product Optimization
+• Collaborated with the UX team to improve the friendliness of the speech dialogue system by creating
+more natural prompts.
+• Evaluated TTS performance against competitors, driving new feature development, TTS data release, delivery,
+and maintenance.
+• Provided Chinese TTS solutions and technical support for local and global projects.
+• Assisted pre-sales with technical consulting and after-sales error management.
+Achievements: Established eﬃcient data release and maintenance processes, releasing over 40 data packages
+annually. Implemented key technologies for international OEMs (BMW, Mercedes-Benz, Volkswagen). Mastered
+NLG technical architecture and localized prompts.
+
+[ 07/2012 – 10/2014 ]
+Siri Voice Assistant Project
+• Evaluated and optimized Mandarin/Taiwanese/Cantonese voice to enhance MOS score by 0.5 for Cantonese.
+• Customized voice, managed bugs with the Bugzilla tracking system.
+• Collaborated with the Merelbeke team to integrate TTS models.
+• Provided feedback for engine development.
+Achievements: Quickly mastered speech synthesis technique, problem-solving skills, and project management
+skills. Optimized Cantonese TTS system to outperform competitors like iFlyTek. Acknowledged by Tier1 and
+customers for on-site support.
+
+EDUCATION AND TRAINING
+Master Degree of Arts in Applied Linguistics
+South China University of Technology [ 01/09/2007 – 20/06/2009 ]
+City: Guangzhou | Country: China
+
+Bachelor Degree of Arts in Literature
+Henan University of Science and Technology [ 01/09/2003 – 30/06/2007 ]
+City: Luoyang | Country: China
+
+LANGUAGE SKILLS
+Mother tongue(s): Mandarin, Cantonese
+Other language(s):
+
+English
+
+French
+
+LISTENING B2 READING C1 WRITING B2
+
+LISTENING A2 READING A2 WRITING A2
+
+SPOKEN PRODUCTION B2 SPOKEN INTERACTION B2
+
+SPOKEN PRODUCTION A2 SPOKEN INTERACTION A2
+
+German
+LISTENING A1 READING A1 WRITING A1
+SPOKEN PRODUCTION A1 SPOKEN INTERACTION A1
+Levels: A1 and A2: Basic user; B1 and B2: Independent user; C1 and C2: Proﬁcient user
+
+DIGITAL SKILLS
+documentation
+MS. Oﬃce Programs: Word, Excel, Powerpoint, Outlook, Project, Visio, OneDrive, OneNote / Conﬂuence (9+ yrs) /
+Notion user
+version control
+P4 Perforce / Version Control System (Git) / Mercurial - TortoiseHg
+project management
+Jira / CICD using Jenkins
+product design
+Axure UX/UI / MS Visio
+hands-on tools
+Wincmdline, Perl, Python basics, REST API, TRAE usage
+
+HOBBIES AND INTERESTS
+Cooking
+make diﬀerent cuisines on weekends or holidays
+Language Learning
+Using Duolingo to explore diﬀerent languages
+Travel and Culture
+Travel domestically or abroad every holiday
+
+
