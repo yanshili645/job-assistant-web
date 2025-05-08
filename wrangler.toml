@@ -1,8 +1,12 @@
-// Cloudflare Workers配置文件
+# Cloudflare Workers配置文件
+
+
 
 name = "job-assistant-web"
 main = "src/index.ts"
 compatibility_date = "2023-01-01"
+
+account_id = "066fb236af8b295e55551564fda5ae23"
 
 [site]
 bucket = "./public"
@@ -13,4 +17,4 @@ command = "npm run build"
 [[d1_databases]]
 binding = "DB"
 database_name = "job_assistant_db"
-database_id = "job-assistant-db"
+database_id = "0f48df3d-8fa0-4307-be67-3d7ee0ff527a"
